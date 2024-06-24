@@ -33,10 +33,10 @@ body {
   align-items: center;
 }
 .form{
-  padding: 50px 100px 20px 100px;
+  padding: 30px 500px 10px 50px;
 }
 .form-footer{
-  padding:0px 100px 10px 100px;
+  padding:0px 50px 10px 500px;
 }
 span{
   color: red;
