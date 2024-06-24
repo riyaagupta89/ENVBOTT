@@ -1,7 +1,139 @@
+.home-container{
+  height: 100vh;
+  width: 100vw;
+}
+.home-navbar{
+  background-color: black;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.nav-left{
+  display: flex;
+  gap:20px;
+  align-items: center;
+}
+.nav-right{
+  display: flex;
+  gap:20px;
+  align-items: center;
+}
+.nav-right-text{
+  color: white;
+  font-size: 12px;
+}
+.sidebar-container{
+  background-color: #333;
+  width: 170px;
+  /* padding:10px 30px; */
+  height: 90%;
+}
+.sidebar-box{
+  display: flex;
+  gap:15px;
+  align-items: center;
+  padding-left: 20px;
+}
+.menu-icon{
+  width: 25px;
+  height: 20px;
+}
+.infa-logo-icon{
+
+}
+.sidebar-box img{
+  width: 15px;
+  height: 15px;
+}
+.sidebar-text{
+  color: white;
+  font-size: 12px;
+}
+.sidebar-box:hover{
+  background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App {
   width: 100vw;
   height: 100vh;
-  
 }
 
 .navbar {
