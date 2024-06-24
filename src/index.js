@@ -2,7 +2,6 @@ import React from 'react';
 import './index.css';
 import App from './App';
 import Login from './Login';
-import NoPage from './NoPage';
 import reportWebVitals from './reportWebVitals';
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
