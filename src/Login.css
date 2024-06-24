@@ -33,10 +33,10 @@ body {
   align-items: center;
 }
 .form{
-  padding: 30px 500px 10px 50px;
+  padding: 30px 50px 10px 50px;
 }
 .form-footer{
-  padding:0px 50px 10px 500px;
+  padding:0px 50px 10px 50px;
 }
 span{
   color: red;
@@ -48,7 +48,7 @@ span{
   margin-bottom: 10px;
 }
 .input-field{
-  width: 100%;
+  width: 86%;
   outline:none;
   border: 1px solid #dde6e9;
   border-radius: 5px;
